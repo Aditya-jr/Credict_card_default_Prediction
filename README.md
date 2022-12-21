@@ -13,7 +13,13 @@ https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset
 
 ## Tools and softwares
 
-Github
-VSCode
-GitCLI
-Cloud
+Github\
+VSCode\
+GitCLI\
+Cloud\
+
+create new environment
+
+```
+conda create -p venv python == 3.9 -y
+```
