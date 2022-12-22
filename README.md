@@ -21,5 +21,5 @@ Cloud\
 create new environment
 
 ```
-conda create -p venv python == 3.9 -y
+conda create -p venv python == 3.7 -y
 ```
